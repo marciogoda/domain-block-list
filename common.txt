@@ -8,11 +8,14 @@ udc.yahoo.com
 udcm.yahoo.com
 log.fc.yahoo.com
 log.fc.yahoo.com
+adtech.yahooinc.com
 
 #Yandex
 metrika.yandex.ru
 metrika.yandex.ru
 appmetrica.yandex.ru
+adfox.yandex.ru
+adfstat.yandex.ru
 
 #Youtube
 redirector.googlevideo.com
@@ -23,9 +26,11 @@ analytics.adobe.io
 
 #Advanced Trackers
 analytics.adobe.io
+fingerprintjs.com
 
 #Sentry
 app.getsentry.com
+browser.sentry-cdn.com
 
 #Rollbar
 cdn.rollbar.com
@@ -38,12 +43,13 @@ api.raygun.com
 cdn.raygun.io
 
 #Airbrake
+airbrake.io
 cdn.raygun.io
 collect.airbrake.io
 api.airbrake.io
 
 #Stackdriver - GCP
-ogging.googleapis.com
+logging.googleapis.com
 trace.googleapis.com
 errorreporting.googleapis.com
 
@@ -65,6 +71,7 @@ bdapi-in-ads.realmemobile.com
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 grs.hicloud.com
+logservice.hicloud.com
 ogservice.hicloud.com
 logservice1.hicloud.com
 logbak.hicloud.com
@@ -83,3 +90,28 @@ ngfts.lge.com
 #Microsoft - Surface/WindowsPhone
 vortex.data.microsoft.com
 
+#Instagram
+graph.instagram.com
+
+#Facebook
+connect.facebook.net
+graph.facebook.com
+
+#Reddit
+events.reddit.com
+
+#Bugsnag
+api.bugsnag.com
+app.bugsnag.com
+
+#Index Exchange
+cdn.indexexchange.com
+
+#PubMatic
+pubmatic.com
+
+#Google Ads
+afs.googlesyndication.com
+
+#DoubleClick
+mediavisor.doubleclick.net
