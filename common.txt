@@ -27,6 +27,7 @@ analytics.adobe.io
 #Advanced Trackers
 analytics.adobe.io
 fingerprintjs.com
+siftscience.com
 
 #Sentry
 app.getsentry.com
@@ -55,6 +56,18 @@ errorreporting.googleapis.com
 
 #TikTok
 log.byteoversea.com
+ads-api.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+
+#Quora
+pixel.quora.com
+
+#VK
+ads.vk.com
+api.vk.com
+
 
 #Tumblr
 px.srvcs.tumblr.com
@@ -82,6 +95,7 @@ data.mistat.rus.xiaomi.com
 
 #Samsung
 analytics-api.samsunghealthcn.com
+samsung-com.112.2o7.net
 
 #LG
 info.lgsmartad.com
@@ -100,6 +114,9 @@ graph.facebook.com
 #Reddit
 events.reddit.com
 
+#X
+ads-api.x.com
+
 #Bugsnag
 api.bugsnag.com
 app.bugsnag.com
@@ -115,3 +132,4 @@ afs.googlesyndication.com
 
 #DoubleClick
 mediavisor.doubleclick.net
+
