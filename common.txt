@@ -19,7 +19,6 @@ adfstat.yandex.ru
 
 #Youtube
 redirector.googlevideo.com
-youtubei.googleapis.com
 
 #Adobe
 analytics.adobe.io
